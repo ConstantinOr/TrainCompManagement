@@ -1,0 +1,12 @@
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Client.DTO/bin/Debug/net6.0/TrainCompManagement.Client.DTO.deps.json
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Client.DTO/bin/Debug/net6.0/TrainCompManagement.Client.DTO.dll
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Client.DTO/bin/Debug/net6.0/TrainCompManagement.Client.DTO.pdb
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Client.DTO/obj/Debug/net6.0/TrainCompManagement.Client.DTO.csproj.AssemblyReference.cache
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Client.DTO/obj/Debug/net6.0/TrainCompManagement.Client.DTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Client.DTO/obj/Debug/net6.0/TrainCompManagement.Client.DTO.AssemblyInfoInputs.cache
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Client.DTO/obj/Debug/net6.0/TrainCompManagement.Client.DTO.AssemblyInfo.cs
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Client.DTO/obj/Debug/net6.0/TrainCompManagement.Client.DTO.csproj.CoreCompileInputs.cache
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Client.DTO/obj/Debug/net6.0/TrainCompManagement.Client.DTO.dll
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Client.DTO/obj/Debug/net6.0/refint/TrainCompManagement.Client.DTO.dll
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Client.DTO/obj/Debug/net6.0/TrainCompManagement.Client.DTO.pdb
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Client.DTO/obj/Debug/net6.0/ref/TrainCompManagement.Client.DTO.dll

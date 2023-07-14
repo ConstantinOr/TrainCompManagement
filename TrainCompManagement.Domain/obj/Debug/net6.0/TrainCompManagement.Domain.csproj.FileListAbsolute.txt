@@ -1,0 +1,17 @@
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Domain/bin/Debug/net6.0/TrainCompManagement.Domain.deps.json
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Domain/bin/Debug/net6.0/TrainCompManagement.Domain.dll
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Domain/bin/Debug/net6.0/TrainCompManagement.Domain.pdb
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Domain/obj/Debug/net6.0/TrainCompManagement.Domain.csproj.AssemblyReference.cache
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Domain/obj/Debug/net6.0/TrainCompManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Domain/obj/Debug/net6.0/TrainCompManagement.Domain.AssemblyInfoInputs.cache
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Domain/obj/Debug/net6.0/TrainCompManagement.Domain.AssemblyInfo.cs
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Domain/obj/Debug/net6.0/TrainCompManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Domain/obj/Debug/net6.0/TrainCompManagement.Domain.dll
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Domain/obj/Debug/net6.0/refint/TrainCompManagement.Domain.dll
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Domain/obj/Debug/net6.0/TrainCompManagement.Domain.pdb
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Domain/obj/Debug/net6.0/ref/TrainCompManagement.Domain.dll
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Domain/bin/Debug/net6.0/TrainCompManagement.Client.DTO.dll
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Domain/bin/Debug/net6.0/TrainCompManagement.DAL.dll
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Domain/bin/Debug/net6.0/TrainCompManagement.Client.DTO.pdb
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Domain/bin/Debug/net6.0/TrainCompManagement.DAL.pdb
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.Domain/obj/Debug/net6.0/TrainCompManagement.Domain.csproj.CopyComplete
