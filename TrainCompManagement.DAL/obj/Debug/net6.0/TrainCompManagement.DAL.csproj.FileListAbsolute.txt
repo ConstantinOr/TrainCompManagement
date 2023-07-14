@@ -1,0 +1,14 @@
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.DAL/bin/Debug/net6.0/TrainCompManagement.DAL.deps.json
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.DAL/bin/Debug/net6.0/TrainCompManagement.DAL.runtimeconfig.json
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.DAL/bin/Debug/net6.0/TrainCompManagement.DAL.dll
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.DAL/bin/Debug/net6.0/TrainCompManagement.DAL.pdb
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.DAL/obj/Debug/net6.0/TrainCompManagement.DAL.csproj.AssemblyReference.cache
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.DAL/obj/Debug/net6.0/TrainCompManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.DAL/obj/Debug/net6.0/TrainCompManagement.DAL.AssemblyInfoInputs.cache
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.DAL/obj/Debug/net6.0/TrainCompManagement.DAL.AssemblyInfo.cs
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.DAL/obj/Debug/net6.0/TrainCompManagement.DAL.csproj.CoreCompileInputs.cache
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.DAL/obj/Debug/net6.0/TrainCompManagement.DAL.dll
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.DAL/obj/Debug/net6.0/refint/TrainCompManagement.DAL.dll
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.DAL/obj/Debug/net6.0/TrainCompManagement.DAL.pdb
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.DAL/obj/Debug/net6.0/TrainCompManagement.DAL.genruntimeconfig.cache
+/Users/konst/Desktop/Projects/Test/TrainComponentManagementSystem/TrainCompManagement.DAL/obj/Debug/net6.0/ref/TrainCompManagement.DAL.dll
