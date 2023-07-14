@@ -7,6 +7,6 @@ public record NodeClientModel
     string UniqueNumber,
     bool IsQuantityAllowed,
     long Quantity,
-    NodeClientModel Ancestor,
-    NodeClientModel Descendant
+    IEnumerable<NodeClientModel> Ancestor,
+    IEnumerable<NodeClientModel> Descendant
 );
