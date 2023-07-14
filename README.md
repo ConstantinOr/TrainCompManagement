@@ -13,3 +13,6 @@ For creating the database system used Code First with Migration.
  
 #### Entity Framework Core 
  
+# UI
+Angular with Kendo UI Tree.
+At this moment in progress.
